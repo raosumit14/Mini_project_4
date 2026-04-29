@@ -1,0 +1,12 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.openOcdConfigs": [
+    "board/esp32-wrover-kit-3.3v.cfg"
+  ],
+  "idf.portWin": "COM20",
+  "idf.currentSetup": "E:/Espressif/frameworks/esp-idf-v4.4.7/",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32"
+  },
+  "idf.flashType": "UART"
+}
